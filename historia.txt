@@ -1,3 +1,4 @@
 Hola Unu
 nuevo Unu
 Probando reset soft
+Probando rm --cached
