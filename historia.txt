@@ -1,2 +1,5 @@
-Hola
-Cambiemos el pasado
+Hola Unu
+nuevo Unu
+Probando reset soft
+Probando rm --cached
+Nuevo para checkout 2
