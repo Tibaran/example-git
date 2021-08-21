@@ -3,3 +3,4 @@ nuevo Unu
 Probando reset soft
 Probando rm --cached
 Nuevo para checkout 2
+Haciendo un cambio despues de unirlo con una llave
